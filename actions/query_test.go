@@ -13,7 +13,7 @@ package actions
 import (
 	"time"
 
-	"github.com/I1820/types"
+	"github.com/FANIoT/types"
 )
 
 const thingID = "5ba3f1a287a142b0a840fae1"

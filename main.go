@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/I1820/dm/actions"
+	"github.com/FANIoT/dm/actions"
 )
 
 func main() {

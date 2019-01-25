@@ -20,7 +20,7 @@
 [[projects]]
   branch = "master"
   digest = "1:75f9a1481cf528772b05f30202a6fcd2bb7ec281683b2076778a31c04860dfee"
-  name = "github.com/I1820/types"
+  name = "github.com/FANIoT/types"
   packages = ["."]
   pruneopts = "UT"
   revision = "9a4d5d6f6f7900857ddd0d9ffe2a545c8cd54344"
@@ -788,7 +788,7 @@
   analyzer-name = "dep"
   analyzer-version = 1
   input-imports = [
-    "github.com/I1820/types",
+    "github.com/FANIoT/types",
     "github.com/gobuffalo/buffalo",
     "github.com/gobuffalo/buffalo/render",
     "github.com/gobuffalo/envy",

@@ -15,7 +15,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/I1820/types"
+	"github.com/FANIoT/types"
 	"github.com/gobuffalo/buffalo"
 	"github.com/mongodb/mongo-go-driver/bson"
 )
